@@ -2,11 +2,12 @@
 
 # ✨ Meu Primeiro Ambiente VR
 
+[Vídeo demonstrativo: https://youtu.be/Xpm9oMAG6p4](https://youtu.be/Xpm9oMAG6p4)
 ![Print do Projeto](Assets/Images/print.png)
 
 ## 🛍️ Apresentando o Seu Projeto
 
-Criei um ambiente de loja em VR com a proposta de proporcionar aos clientes a experiência de visitar virtualmente uma loja de roupas e acessórios. O projeto foi inspirado em outro trabalho que desenvolvi em Realidade Aumentada, chamado *Pocket Fitting*, um provador virtual utilizando RA. Além disso, também disponibilizarei o link do vídeo demonstrativo desse projeto anterior para complementar a apresentação.
+Criei um ambiente de loja em VR com a proposta de proporcionar aos clientes a experiência de visitar virtualmente uma loja de roupas e acessórios. O projeto foi inspirado em outro trabalho que desenvolvi em Realidade Aumentada, chamado [*Pocket Fitting*](https://youtube.com/shorts/021KwxcyHnE?feature=share), um provador virtual utilizando RA. 
 
 ## 🌟 Contexto e Objetivos
 
