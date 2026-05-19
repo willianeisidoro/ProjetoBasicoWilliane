@@ -2,12 +2,15 @@
 
 # ✨ Meu Primeiro Ambiente VR
 
-[Vídeo demonstrativo: https://youtu.be/Xpm9oMAG6p4](https://youtu.be/Xpm9oMAG6p4)
+[Vídeo demonstrativo básico: https://youtu.be/Xpm9oMAG6p4](https://youtu.be/Xpm9oMAG6p4)
+[Vídeo demonstrativo avançado: https://youtu.be/J9AAMCfN_Hw](https://youtu.be/J9AAMCfN_Hw)
 ![Print do Projeto](Assets/Images/print.png)
 
 ## 🛍️ Apresentando o Seu Projeto
 
 Criei um ambiente de loja em VR com a proposta de proporcionar aos clientes a experiência de visitar virtualmente uma loja de roupas e acessórios. O projeto foi inspirado em outro trabalho que desenvolvi em Realidade Aumentada, chamado [*Pocket Fitting*](https://youtube.com/shorts/021KwxcyHnE?feature=share), um provador virtual utilizando RA. 
+
+Para a interação pedida na atividade avançada, adicionei uma porta de vidro com um botão ao lado que detecta a presença do player quando está próximo e desloca a porta lateralmente, liberando a passagem. Após o player afastar-se, a porta volta para a posição original e a passagem é bloqueada novamente.
 
 ## 🌟 Contexto e Objetivos
 
